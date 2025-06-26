@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="banner_migrate_to_native_sliding_sync_action">"Çıkış Yap ve Yükselt"</string>
-    <string name="banner_migrate_to_native_sliding_sync_force_logout_title">"Ana sunucunuz artık eski protokolü desteklemiyor. Lütfen oturumu kapatın ve uygulamayı kullanmaya devam etmek için tekrar oturum açın."</string>
-</resources>
